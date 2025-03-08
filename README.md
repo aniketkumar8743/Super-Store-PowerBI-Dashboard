@@ -3,6 +3,12 @@
 ## 📌 Project Overview
 This Power BI dashboard provides a **detailed analysis of Super Store sales performance**, including key sales metrics, trends, segment-wise breakdowns, and a **15-day sales forecast**. The dashboard helps in understanding sales distribution across categories, regions, and shipment methods while also offering a predictive analysis of future sales trends.
 
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/68d91d83-d28a-4635-8eff-ead9618d7e7c" />
+
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/69a19fd1-27c3-4c15-a38f-9df3f4cbbc0b" />
+
+
+
 ## 🚀 Key Features
 ### **1️⃣ Sales Performance Analysis**
 - **Sales & Profit Overview:** Displays total sales, profit, and average shipping days.
